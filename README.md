@@ -1,0 +1,4 @@
+PyOutlook
+=========
+
+Outlook python library
